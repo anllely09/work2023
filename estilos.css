@@ -25,7 +25,7 @@
     
      
     
-    width: 190px;
+    width: 89px;
     
     height: 190px;
     
@@ -35,7 +35,7 @@
     
      
     
-    left: 180px;
+    left: 189px;
     
     background-image: url("fondo1.jpg");
     
@@ -50,6 +50,20 @@
     
     }
     
+    .contenido{
+
+    height: 280px;
+        
+    width: 100%;
+        
+    position: absolute;
+        
+    top: 410px;
+        
+         
+        
+        }
+
     .texto{
     position: relative;
     top: 80px;
@@ -66,14 +80,45 @@
     position: absolute;
     height: 280px;
     width: 100%;
-    top: 245px;
-    font-size: 20px;
+    top: 425px;
+    font-size: 18px;
     left: 10px;
-    text-align: left;
+    text-align: justify;
     text-align-last: left;
     color: black;
-    }
+    font-family: 'Arial', 'Arial', Calibri, 'Trebuchet MS', sans-serif;
+
+   }
     
-    .titulo{
-    font-size: 65px;
+    .materia{
+    font-size: 62px;
+    font-family: 'Cambria', 'Cambria', Calibri, 'Trebuchet MS', sans-serif;
     }
+
+    .algebra{
+    position: absolute;
+    height: 280px;
+    width: 100%;
+    top: 425px;
+    font-size: 18px;
+    left: 10px;
+    text-align: justify;
+    text-align-last: left;
+    color: black;
+    font-family: 'Arial', 'Arial', Calibri, 'Trebuchet MS', sans-serif;
+
+    }
+
+    .titulo{
+    position: absolute;
+    height: 280px;
+    width: 100%;
+    top: 50%;
+    text-align: justify;
+    left: 550px;
+    font-size: 38px;
+    font-family: 'Arial', 'Arial', Calibri, 'Trebuchet MS', sans-serif;
+    color: rgb(0, 0, 0);
+        
+    }
+
