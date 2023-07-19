@@ -13,10 +13,17 @@
     
     background-image: url("fondo1.jpg");
     
-    background-repeat: no-repeat;
+    
     
     }
     
+    .fondotec{
+    
+    background-image: url("tecno.jpg");
+        
+   
+        
+    }
     
     
     .img{
@@ -122,3 +129,48 @@
         
     }
 
+    .monomio{
+
+        background-repeat: no-repeat;
+
+        float:left;
+        
+        height: 200px;
+        
+        width: 260px;
+        
+        margin-left: 5px;
+        
+        margin-right:5px;
+        
+        background-image: url("monomio.png");
+
+    }
+
+    .tec{
+
+        background-repeat: no-repeat;
+        float:left;
+        height: 200px;
+        width: 260px;
+        margin-left: 5px;
+        margin-right:5px;
+        background-image: url("tec.jpg");
+
+    }
+
+    .texto{
+
+        position: absolute;
+        height: 280px;
+        width: 100%;
+        top: 425px;
+        font-size: 18px;
+        left: 10px;
+        text-align: justify;
+        text-align-last: left;
+        color: rgb(255, 255, 255);
+
+    }    
+
+   
