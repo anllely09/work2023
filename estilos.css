@@ -13,34 +13,79 @@
     
     background-image: url("fondo1.jpg");
     
-    
+    background-size: cover;
+
     
     }
+
+    .fondo{
+        
+        background-image: url("fondo.jpg");
+            
+        background-size: cover;
+        
+        }
     
+
+    .fondomat{
+        
+    background-image: url("fondomat.jpg");
+        
+    background-size: cover;
+    
+    }
+
+    .fondoing{
+        
+        background-image: url("fondoss.jpg");
+            
+        background-size: cover;
+        
+        }
+    
+    .fondorel{
+    
+    background-image: url("fondorel.jpg");
+                
+    background-size: cover;
+            
+    }
+    
+    .fondosoc{
+    
+        background-image: url("fondosoc.jpg");
+                    
+        background-size: cover;
+                
+        }
+    
+    .fondobio{
+        
+    background-image: url("fondobio.jpg");
+            
+    background-size: cover;
+            
+    }
+
     .fondotec{
-    
-    background-image: url("tecno.jpg");
         
-   
-        
+    background-image: url("fondotec.jpg");
+                
+    background-size: cover;
+                
     }
-    
-    
+
     .img{
     
     position: relative;
     
-     
-    
-    width: 89px;
+    width: 80px;
     
     height: 190px;
     
     border-radius: 10px;
     
     background-repeat: no-repeat;
-    
-     
     
     left: 189px;
     
@@ -57,19 +102,99 @@
     
     }
     
-    .contenido{
+    .contenidos{
 
     height: 280px;
         
-    width: 100%;
+    width: 99%;
         
     position: absolute;
         
     top: 410px;
         
          
+    }
+
+    .monomio{
+
+ 
+        position: absolute;
+        background-repeat: no-repeat;
+        background-size: 50%;
+        text-align: justify;
+        top: 116%;
+        float: left;
+        height: 430px;
+        width: 470px;
+        margin-left: 85px;
+        margin-right:5px;
+        background-image: url("monomio.png");
         
-        }
+    }
+
+    .binomio{
+
+ 
+        position: absolute;
+        background-repeat: no-repeat;
+        background-size: 50%;
+        text-align: justify;
+        top: 211%;
+        float: left;
+        height: 430px;
+        width: 470px;
+        margin-left: 85px;
+        margin-right:5px;
+        background-image: url("Binomio.png");
+        
+    }
+
+    .polinomio{
+
+ 
+        position: absolute;
+        background-repeat: no-repeat;
+        background-size: 97%;
+        text-align: justify;
+        top: 316%;
+        float: left;
+        height: 430px;
+        width: 470px;
+        margin-left: 32px;
+        margin-right:5px;
+        background-image: url("polinomio.png");
+        
+    }
+
+    .vmonomio{
+
+ 
+        position: absolute;
+        text-align: justify;
+        top: 108%;
+        float: left;
+        left: 39%;
+    }
+
+    .vbinomio{
+
+ 
+        position: absolute;
+        text-align: justify;
+        top: 203%;
+        float: left;
+        left: 39%;
+    }
+
+    .vpolinomio{
+
+ 
+        position: absolute;
+        text-align: justify;
+        top: 303%;
+        float: left;
+        left: 39%;
+    }
 
     .texto{
     position: relative;
@@ -83,94 +208,268 @@
      
     
     }
-    .preguntas{
-    position: absolute;
-    height: 280px;
-    width: 100%;
-    top: 425px;
-    font-size: 18px;
-    left: 10px;
-    text-align: justify;
-    text-align-last: left;
-    color: black;
-    font-family: 'Arial', 'Arial', Calibri, 'Trebuchet MS', sans-serif;
-
-   }
     
     .materia{
+    
+    
+    
     font-size: 62px;
     font-family: 'Cambria', 'Cambria', Calibri, 'Trebuchet MS', sans-serif;
+    text-align: center;
     }
 
-    .algebra{
-    position: absolute;
-    height: 280px;
-    width: 100%;
-    top: 425px;
-    font-size: 18px;
-    left: 10px;
-    text-align: justify;
-    text-align-last: left;
-    color: black;
-    font-family: 'Arial', 'Arial', Calibri, 'Trebuchet MS', sans-serif;
-
+   
+    .contenido{
+        position: absolute;
+        height: 280px;
+        width: 85%;
+        top: 425px;
+        font-size: 20px;
+        left: 20px;
+        text-align: justify;
+        text-align-last: left;
+        color: black;
+        font-family: 'Cambria', 'Cambria', Calibri, 'Trebuchet MS', sans-serif;
+      
+    
     }
+
+    .contenidorel{
+        position: absolute;
+        height: 280px;
+        width: 85%;
+        top: 800px;
+        font-size: 20px;
+        left: 20px;
+        text-align: justify;
+        text-align-last: left;
+        color: black;
+        font-family: 'Cambria', 'Cambria', Calibri, 'Trebuchet MS', sans-serif;
+      
+    
+        }
 
     .titulo{
     position: absolute;
     height: 280px;
-    width: 100%;
     top: 50%;
     text-align: justify;
-    left: 550px;
+    left: 595px;
     font-size: 38px;
-    font-family: 'Arial', 'Arial', Calibri, 'Trebuchet MS', sans-serif;
+    font-family: 'Cambria', 'Cambria', Calibri, 'Trebuchet MS', sans-serif;
     color: rgb(0, 0, 0);
-        
-    }
-
-    .monomio{
-
-        background-repeat: no-repeat;
-
-        float:left;
-        
-        height: 200px;
-        
-        width: 260px;
-        
-        margin-left: 5px;
-        
-        margin-right:5px;
-        
-        background-image: url("monomio.png");
 
     }
 
-    .tec{
-
-        background-repeat: no-repeat;
-        float:left;
-        height: 200px;
-        width: 260px;
-        margin-left: 5px;
-        margin-right:5px;
-        background-image: url("tec.jpg");
-
+    .tituloing{
+    position: absolute;
+    height: 280px;       
+    top: 50%;
+    text-align: justify;
+    left: 530px;
+    font-size: 38px;
+    font-family: 'Cambria', 'Cambria', Calibri, 'Trebuchet MS', sans-serif;
+    color: rgb(0, 0, 0);
+    
     }
 
-    .texto{
-
+    .titulosc{
         position: absolute;
         height: 280px;
-        width: 100%;
-        top: 425px;
-        font-size: 18px;
-        left: 10px;
+        top: 50%;
         text-align: justify;
-        text-align-last: left;
-        color: rgb(255, 255, 255);
+        left: 528px;
+        font-size: 38px;
+        font-family: 'Cambria', 'Cambria', Calibri, 'Trebuchet MS', sans-serif;
+        color: rgb(0, 0, 0);
+        
+    }
 
-    }    
+    .noticia{
+    position: absolute;
+    height: 280px;
+    width: 99%;
+    top: 50%;
+    text-align: center;
+    left: 2px;
+    font-size: 38px;
+    font-family: 'Cambria', 'Cambria', Calibri, 'Trebuchet MS', sans-serif;
+    color: rgb(0, 0, 0);
 
-   
+}
+
+.mental{
+
+    position: absolute;
+    height: 280px;
+    width: 99%;
+    top: 68%;
+    left: 13px;
+
+}
+
+.colonias{
+    position: absolute;
+    height: 280px;
+    width: 99%;
+    top: 185%;
+    left: 19px;
+
+}
+
+.gifing{
+
+ 
+    position: absolute;
+    background-repeat: no-repeat;
+    background-size: 70%;
+    text-align: justify;
+    top: 80%;
+    left: 700px;
+    height: 430px;
+    width: 470px;
+    margin-left: 85px;
+    margin-right:5px;
+    background-image: url("ingles.gif");
+    
+}
+
+.gifing2{
+
+ 
+    position: absolute;
+    background-repeat: no-repeat;
+    background-size: 50%;
+    text-align: justify;
+    top: 326%;
+    left: 644px;
+    height: 239px;
+    width: 470px;
+    margin-left: 85px;
+    margin-right:5px;
+    background-image: url("ing2.gif");
+    
+}
+
+.hin{
+
+ 
+    position: absolute;
+    background-repeat: no-repeat;
+    background-size: 75%;
+    text-align: justify;
+    top: 70%;
+    float: left;
+    left: 528px;
+    height: 239px;
+    width: 470px;
+    background-image: url("hin.jpg");
+    
+}
+
+.hindu{
+
+ 
+    position: absolute;
+    background-repeat: no-repeat;
+    background-size: 37%;
+    text-align: justify;
+    top: 70%;
+    float: left;
+    left: 299px;
+    height: 484px;
+    width: 470px;
+    background-image: url("hindu.jpg");
+    
+}
+
+.hindui{
+
+ 
+    position: absolute;
+    background-repeat: no-repeat;
+    background-size: 37%;
+    text-align: justify;
+    top: 70%;
+    float: left;
+    left: 939px;
+    height: 484px;
+    width: 363px;
+    background-image: url("hindui.jpg");
+    
+}
+
+.vbio{
+    position: absolute;
+    text-align: justify;
+    top: 85%;
+    float: left;
+    left: 29%;
+
+}
+
+.thaiti{
+
+    position: absolute;
+    height: 280px;       
+    top: 250%;
+    text-align: justify;
+    left: 530px;
+    font-size: 38px;
+    font-family: 'Cambria', 'Cambria', Calibri, 'Trebuchet MS', sans-serif;
+    color: rgb(0, 0, 0);
+
+}
+
+.haiti{
+
+    position: absolute;
+    height: 280px;
+    width: 85%;
+    top: 270%;
+    font-size: 20px;
+    left: 20px;
+    text-align: justify;
+    text-align-last: left;
+    color: black;
+    font-family: 'Cambria', 'Cambria', Calibri, 'Trebuchet MS', sans-serif;
+
+}
+
+.podcast{
+
+    position: absolute;
+    height: 280px;
+    top: 287%;
+    left: 560px;
+
+
+}
+
+.tmexico{
+
+    position: absolute;
+    height: 280px;       
+    top: 315%;
+    text-align: justify;
+    left: 490px;
+    font-size: 38px;
+    font-family: 'Cambria', 'Cambria', Calibri, 'Trebuchet MS', sans-serif;
+    color: rgb(0, 0, 0);
+
+}
+
+.mexico{
+
+    position: absolute;
+    height: 280px;
+    width: 85%;
+    top: 335%;
+    font-size: 20px;
+    left: 20px;
+    text-align: justify;
+    text-align-last: left;
+    color: black;
+    font-family: 'Cambria', 'Cambria', Calibri, 'Trebuchet MS', sans-serif;
+
+}
