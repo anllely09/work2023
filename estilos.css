@@ -285,6 +285,19 @@
         
     }
 
+    .titulotec{
+
+        position: absolute;
+        height: 280px;       
+        top: 50%;
+        text-align: justify;
+        left: 505px;
+        font-size: 38px;
+        font-family: 'Cambria', 'Cambria', Calibri, 'Trebuchet MS', sans-serif;
+        color: rgb(0, 0, 0);
+    
+    }
+
     .noticia{
     position: absolute;
     height: 280px;
@@ -472,4 +485,217 @@
     color: black;
     font-family: 'Cambria', 'Cambria', Calibri, 'Trebuchet MS', sans-serif;
 
+}
+
+.operador{
+    position: absolute;
+        background-repeat: no-repeat;
+        background-size: 63%;
+        text-align: justify;
+        top: 85%;
+        left: 455px;
+        height: 236px;
+        width: 470px;
+        margin-left: 85px;
+        margin-right:5px;
+        background-image: url("operador.png");
+        
+}
+
+.electronica{
+
+    position: absolute;
+    height: 280px;
+    width: 85%;
+    top: 1217px;
+    font-size: 20px;
+    left: 20px;
+    text-align: justify;
+    text-align-last: left;
+    color: black;
+    font-family: 'Cambria', 'Cambria', Calibri, 'Trebuchet MS', sans-serif;
+
+}
+
+.titulo2{
+
+    position: absolute;
+    height: 280px;       
+    top: 165%;
+    text-align: justify;
+    left: 530px;
+    font-size: 38px;
+    font-family: 'Cambria', 'Cambria', Calibri, 'Trebuchet MS', sans-serif;
+    color: rgb(0, 0, 0);
+
+}
+
+.giftec{
+
+    position: absolute;
+    background-repeat: no-repeat;
+    background-size: 70%;
+    text-align: justify;
+    top: 266%;
+    left: 453px;
+    height: 430px;
+    width: 470px;
+    margin-left: 85px;
+    margin-right:5px;
+    background-image: url("giftecno.gif");
+
+}
+
+.titulo3{
+
+    position: absolute;
+    height: 280px;       
+    top: 324%;
+    text-align: justify;
+    left: 530px;
+    font-size: 38px;
+    font-family: 'Cambria', 'Cambria', Calibri, 'Trebuchet MS', sans-serif;
+    color: rgb(0, 0, 0);
+
+}
+
+.circuito{
+
+    position: absolute;
+    background-repeat: no-repeat;
+    background-size: 80%;
+    text-align: justify;
+    top: 437%;
+    left: 453px;
+    height: 430px;
+    width: 470px;
+    margin-left: 85px;
+    margin-right:5px;
+    background-image: url("circuito.gif");
+
+}
+
+.titulo4{
+
+    position: absolute;
+    height: 280px;       
+    top: 510%;
+    text-align: justify;
+    left: 447px;
+    font-size: 38px;
+    font-family: 'Cambria', 'Cambria', Calibri, 'Trebuchet MS', sans-serif;
+    color: rgb(0, 0, 0);
+
+}
+
+.estructura{
+
+    position: absolute;
+    height: 280px;
+    width: 85%;
+    top: 528%;
+    font-size: 20px;
+    left: 20px;
+    text-align: justify;
+    text-align-last: left;
+    color: black;
+    font-family: 'Cambria', 'Cambria', Calibri, 'Trebuchet MS', sans-serif;
+
+
+}
+
+.secuencial{
+    position: absolute;
+    text-align: justify;
+    top: 548%;
+    float: left;
+    left: 31%;
+
+}
+
+.titulo5{
+
+    position: absolute;
+    height: 280px;       
+    top: 620%;
+    text-align: justify;
+    left: 447px;
+    font-size: 38px;
+    font-family: 'Cambria', 'Cambria', Calibri, 'Trebuchet MS', sans-serif;
+    color: rgb(0, 0, 0);
+
+}
+
+.repetitivas{
+    position: absolute;
+    text-align: justify;
+    top: 658%;
+    float: left;
+    left: 31%;
+
+}
+
+.audiotec{
+
+    position: absolute;
+    height: 200px;
+    top: 720%;
+    left: 560px;
+
+}
+
+.enfermedades{
+
+    position: absolute;
+    top: 378%;
+    left: 560px;
+    
+
+}
+
+.vmexico{
+
+    position: absolute;
+    text-align: justify;
+    top: 355%;
+    float: left;
+    left: 31%;
+
+}
+
+.titulom{
+
+    position: absolute;
+    height: 280px;
+    top: 50%;
+    text-align: justify;
+    left: 495px;
+    font-size: 38px;
+    font-family: 'Cambria', 'Cambria', Calibri, 'Trebuchet MS', sans-serif;
+    color: rgb(0, 0, 0);
+}
+
+.subt{
+    position: absolute;
+    height: 280px;
+    top: 425px;
+    text-align: justify;
+    left: 20px;
+    font-size: 25px;
+    font-family: 'Cambria', 'Cambria', Calibri, 'Trebuchet MS', sans-serif;
+    color: rgb(0, 0, 0);    
+}
+
+.contenidom{
+    position: absolute;
+    height: 280px;
+    width: 85%;
+    top: 490px;
+    font-size: 20px;
+    left: 20px;
+    text-align: justify;
+    text-align-last: left;
+    color: black;
+    font-family: 'Cambria', 'Cambria', Calibri, 'Trebuchet MS', sans-serif;
+  
 }
